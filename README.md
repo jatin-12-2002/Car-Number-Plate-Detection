@@ -11,8 +11,8 @@
 * OCR -> Cloud OCR -> AWS -> GCP -> Azure -> API Based OCR(Paid)
 
 * Free OCR -> 
-* 1) Easy OCR
-* 2) Paddle Paddle
+1) Easy OCR
+2) Paddle Paddle
 
 ## TECH Used
 
